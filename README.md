@@ -10,9 +10,9 @@ Un header animé avec Lottie. Quand on scroll le menu change de couleur de fond.
 
 [➜ Lottie](https://lottiefiles.com/)
 
-[➜ Generateur de grille : css grid generator](https://cssgrid-generator.netlify.app/)
-
 [➜ Plugin Figma pour animer : Aninix](https://www.aninix.com/)
+
+[➜ Generateur de grille : css grid generator](https://cssgrid-generator.netlify.app/)
 
 [➜ Typo : Suez One](https://fonts.google.com/specimen/Suez+One?query=Suez)
 
