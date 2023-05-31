@@ -6,17 +6,17 @@ Un header animé avec Lottie. Quand on scroll le menu change.
 
 ## Ressources
 
-[drawkit](https://www.drawkit.com/)
+[➜ Illustration : drawkit](https://www.drawkit.com/)
 
-[Lottie](https://lottiefiles.com/)
+[➜ Lottie](https://lottiefiles.com/)
 
-[css grid generator](https://cssgrid-generator.netlify.app/)
+[➜ Generateur de grille : css grid generator](https://cssgrid-generator.netlify.app/)
 
-[Aninix Figma](https://www.aninix.com/)
+[➜ Plugin Figma pour animer : Aninix](https://www.aninix.com/)
 
-[Suez One](https://fonts.google.com/specimen/Suez+One?query=Suez)
+[➜ Typo : Suez One](https://fonts.google.com/specimen/Suez+One?query=Suez)
 
-[Header Design Websites](https://www.awwwards.com/websites/header-design/)
+[➜ référence : Header Design Websites](https://www.awwwards.com/websites/header-design/)
 
 
 ## Demo
