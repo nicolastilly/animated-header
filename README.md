@@ -1,7 +1,7 @@
 
 # Header animé
 
-Un header animé avec Lottie. Quand on scroll le menu change.
+Un header animé avec Lottie. Quand on scroll le menu change de couleur de fond.
 
 
 ## Ressources
